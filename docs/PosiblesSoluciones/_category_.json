@@ -1,0 +1,8 @@
+{
+  "label": "Soluciones",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Aca daremos las posibles Soluciones a los problemas encontrados."
+  }
+}
